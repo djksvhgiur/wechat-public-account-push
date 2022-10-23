@@ -40,7 +40,7 @@ const USER_CONFIG = {
         },
       ],
       // 我们在一起已经有xxxx天了的配置
-      customizedDateList: ['2022-07-04'}
+      customizedDateList: ['2022-07-04']
         // 在一起的日子
        
        ],
