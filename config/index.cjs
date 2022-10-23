@@ -43,7 +43,7 @@ const USER_CONFIG = {
       customizedDateList: ['2022-07-04']
         // 在一起的日子
        
-       ],
+       
     },
   ],
 
